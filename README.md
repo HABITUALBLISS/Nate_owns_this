@@ -1,5 +1,4 @@
-# Nate_owns_this
-For module 5 assignment
+# Command C Command V
 
 I partially copied some code from youtube that 
 auto-swipes on tinder. Here are the details:
